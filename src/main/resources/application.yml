@@ -2,4 +2,4 @@ spring:
   application:
   name: api-azure
 server:
-  port: 80
+  port: 8080
