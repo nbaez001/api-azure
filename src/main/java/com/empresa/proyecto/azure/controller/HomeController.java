@@ -11,6 +11,6 @@ public class HomeController {
 
     @GetMapping
     public ResponseEntity<Object> main(){
-        return ResponseEntity.ok("Exito");
+        return ResponseEntity.ok("Home Version 2");
     }
 }
